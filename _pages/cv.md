@@ -11,36 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, UFRPE - Pernambuco Federal Rural University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2018-2019: IT Project Manager
+* IBRAEMA - Brazilian Institute for Education and Environment
+	- Updated the institutional website using Wordpress, HTML, CSS and Javascript
+	- Provided IT support and solutions to internal teams
+	- Created dashboards for data visualization
+	- Created posters, brochures and texts to publicize projects and external activities
+	- Photographed and filmed training sessions for Facilitators and current classes of students
+	- Created, edited and disseminated institutional videos
+	- Managed the Institute's social networks
+	- Planned strategies and provided resources to Supervisors, Promoters and Facilitators
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013-2015: IT Trainee
+* TCE/PE - Court of Auditors of the State of Pernambuco
+	- Consulted and maintained the Setti system's SQLServer database
+	- Updated website information and components via the Joomla interface
+	- Assisted with the creation of mobile applications using Java
+	- Provided IT support to the Corporate Educational Actions and Educational Action Planning, Development and Innovation
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2011-2013: Administrative Assistant (Apprentice)
+* ECT - Brazilian Post-Office Company
+	- Provided customer service at the workplace
+	- Received, sent, filed and moved documents between internal areas
+	- Replenished office supplies
+	- Organized rooms and supported events
+	- Checked, updated and sorted equipment, materials and files
+	- Filled spreadsheets, registered files and tracked objects in the internal system
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* SQL
+	- MySQL
+	- SQL Server
+	- MariaDB
+* Excel
+* Power BI
+* HTML
+* Wordpress
 
+{% comment %}
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -62,3 +76,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+{% endcomment %}

@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-
+ 
 # Basic Site Settings
 locale                   : "pt-BR"
 title                    : "Philippe Santos"
@@ -24,8 +24,8 @@ author:
   avatar           : "20221022_074825_square.jpg"
   name             : "Philippe Santos"
   pronouns         : # example: "she/her"  
-  bio              : "Analista de Dados, ou quase isso"
-  location         : "Recife-PE"
+  bio              : "Data Analyst, or close"
+  location         : "Recife, BR"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "psantos@mailbox.org" 
@@ -61,7 +61,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "darkhandsps" # Username
+  steam            : # "darkhandsps" # Username
   telegram         : "https://t.me/santosp1" # URL
   tumblr           : # Username
   twitter          : # Replace this with your X / Twitter handle
