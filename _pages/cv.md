@@ -44,22 +44,33 @@ Work experience
   
 Skills
 ======
-* Python
-* SQL
-	- MySQL
-	- SQL Server
-	- MariaDB
-* Excel
-* Power BI
-* HTML
-* Wordpress
+* Programming languages
+	- Python, SQL, HTML/CSS
 
-{% comment %}
+* Relevant libraries and tools
+	- Python: Seaborn, Scikit-learn, Numpy, Pandas, Matplotlib, Jupyter
+	- SQL: MySQL, SQL Server, MariaDB
+	- Excel, Power BI
+	
+* Other softwares
+	- Wordpress, MATLAB
+
+* Languages
+	- Portuguese: Native proficiency
+	- English: Minimum Professional Proficiency
+	- Spanish: Elementary Proficiency
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+
+{% comment %}
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
   
 Talks
 ======
@@ -76,4 +87,7 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
 {% endcomment %}
