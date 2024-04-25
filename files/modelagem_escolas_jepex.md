@@ -3,7 +3,7 @@ title: "Modelagem e avaliação de escolas brasileiras utilizando dados abertos 
 collection: publications
 permalink: /publication/modelagem_escolas_jepex
 excerpt: ''
-date: 2016-10
+date: 2016-10-26
 venue: 'XVI JEPEX (2016)'
 paperurl: ''
 citation: 'SANTOS, P., FERREIRA, R. (2016). &quot;Modelagem e avaliação de escolas brasileiras utilizando dados abertos educacionais.&quot; <i>JEPEX</i>, 16a edição.'
