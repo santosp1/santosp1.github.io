@@ -1,13 +1,14 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/dashboard_olympic.png'>"
+title: "Olympic Games analysis"
+excerpt: "Descriptive analysis of the Olympic Games <br/><img src='/images/dashboard_olympic.png'>"
 collection: portfolio
 ---
 
 # Olympic Games analysis
 
 A descriptive analysis of a dataset containing participants and medal winners from the Modern Olympic Games, from their inception in 1896 to the 2016 Olympic Games in Rio de Janeiro.
-What is the problem here?
+
+## What is the problem here?
 
 There is a business problem, a demand sent in from the editorial manager of a media and press company. The demand and a brainstorm/overview of it are in the business-demand-news file.
 

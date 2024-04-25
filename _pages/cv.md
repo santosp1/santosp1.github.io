@@ -15,8 +15,8 @@ Education
 
 Work experience
 ======
-* 2018-2019: IT Project Manager
-* IBRAEMA - Brazilian Institute for Education and Environment
+* **2018-2019: IT Project Manager**
+* **IBRAEMA - Brazilian Institute for Education and Environment**
 	- Updated the institutional website using Wordpress, HTML, CSS and Javascript
 	- Provided IT support and solutions to internal teams
 	- Created dashboards for data visualization
@@ -26,15 +26,15 @@ Work experience
 	- Managed the Institute's social networks
 	- Planned strategies and provided resources to Supervisors, Promoters and Facilitators
 
-* 2013-2015: IT Trainee
-* TCE/PE - Court of Auditors of the State of Pernambuco
+* **2013-2015: IT Trainee**
+* **TCE/PE - Court of Auditors of the State of Pernambuco**
 	- Consulted and maintained the Setti system's SQLServer database
 	- Updated website information and components via the Joomla interface
 	- Assisted with the creation of mobile applications using Java
 	- Provided IT support to the Corporate Educational Actions and Educational Action Planning, Development and Innovation
 
-* 2011-2013: Administrative Assistant (Apprentice)
-* ECT - Brazilian Post-Office Company
+* **2011-2013: Administrative Assistant (Apprentice)**
+* **ECT - Brazilian Post-Office Company**
 	- Provided customer service at the workplace
 	- Received, sent, filed and moved documents between internal areas
 	- Replenished office supplies
@@ -44,18 +44,18 @@ Work experience
   
 Skills
 ======
-* Programming languages
+* **Programming languages**
 	- Python, SQL, HTML/CSS
 
-* Relevant libraries and tools
+* **Relevant libraries and tools**
 	- Python: Seaborn, Scikit-learn, Numpy, Pandas, Matplotlib, Jupyter
 	- SQL: MySQL, SQL Server, MariaDB
 	- Excel, Power BI
 	
-* Other softwares
+* **Other softwares**
 	- Wordpress, MATLAB
 
-* Languages
+* **Languages**
 	- Portuguese: Native proficiency
 	- English: Minimum Professional Proficiency
 	- Spanish: Elementary Proficiency

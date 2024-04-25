@@ -1,6 +1,6 @@
 ---
 title: "911 Calls"
-excerpt: "Descriptive analysis of Montgomery County's 911 calls"
+excerpt: "Descriptive analysis of Montgomery County's 911 calls <br/><img src='/images/911-outliers.png'"
 collection: portfolio
 ---
 
