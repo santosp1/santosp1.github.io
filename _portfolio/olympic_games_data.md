@@ -1,6 +1,6 @@
 ---
 title: "Olympic Games analysis"
-excerpt: "Descriptive analysis of the Olympic Games <br/><img src='/images/dashboard_olympic.png'>"
+excerpt: "Descriptive analysis of Olympic Games athletes' historical data <br/><img src='/images/dashboard_olympic.png'>"
 collection: portfolio
 ---
 
@@ -8,11 +8,15 @@ collection: portfolio
 
 A descriptive analysis of a dataset containing participants and medal winners from the Modern Olympic Games, from their inception in 1896 to the 2016 Olympic Games in Rio de Janeiro.
 
-## What is the problem here?
+## What is the data, and where does it come from?
 
-There is a business problem, a demand sent in from the editorial manager of a media and press company. The demand and a brainstorm/overview of it are in the business-demand-news file.
+The data came from a .bak file: a backup of a SQL Server database. It contains info about Olympic athletes, such as name, sport, nation code, year(s) of participation, medals and others.
 
-In short, there is a request to generate a data visualization that would help readers understand the historical performance of countries at the Olympic Games, with the possibility of selecting their own country. Additional details about competitors are also interesting, as well as any other insights the analyst might find.
+## What's the problem here?
+
+There is a business problem, a demand sent from the newsroom manager of a media and press company. The demand and a brainstorm/overview of it are in the business-demand-news file.
+
+In short, there is a request to generate a data visualization that would help readers understand the historical performance of countries at the Olympic Games, with the possibility of selecting their own country. Additional details about competitors are also interesting, as well as any other insights the analyst may find.
 
 ## How was the solution planned?
 
@@ -38,4 +42,4 @@ In a future version, each event will be filtered to correct these differences. B
 
 The first table in the database didn't prove to be really useful in principle because the many country name changes make it difficult to assign today. For example, an athlete from the former Yugoslavia or the Soviet Union has no information (such as city of origin) in this database to link him to the current country, and only if desired can the historical medal series be retraced.
 
-Exploring other databases can help with this issue, as can correcting medals by sport and athlete. DAX formulas are also an option for dealing with this directly in Power BI.
+Exploring other databases can help with this issue, as can correcting medals by sport and athlete. DAX formulas are also an option for dealing with this directly inside Power BI.

@@ -8,15 +8,19 @@ collection: portfolio
 
 An exploratory analysis of the dataset containing 911 call information in Montegomery County. This project was completed as part of an online data science course.
 
+## What is the data, and where does it come from?
+
+The database contains information from Montgomery County 911. The data is public, available in a Kaggle kernel in csv format. 
+
 ## What's the problem here?
 
-The database contains 911 information from Montgomery County. There isn't a specific problem pointed out by the database manager or the course instructor; the idea is to explore the database and extract information, generate insights, build visualizations and enable others to learn more about the data in order to make a decision.
+The project is part of an online course, so some of the tools were already included, or were implicit. There is no specific problem pointed out by the person in charge of the database or the course instructor; the idea is to explore the database and extract information, generate insights, build visualizations and enable others to learn more about the data in order to make a decision. 
 
 ## How was the solution planned?
 
-The data is public, available in a Kaggle kernel in csv format. The project is part of an online course, so some of the tools were already included, or were implicit. The proposal is to build the solution from a Jupyter Notebook, using the Python language and the Numpy, Pandas, Matplotlib and Seaborn libraries. This set of tools enables data loading, pre-processing (cleaning, transformation, preparation), as well as modeling and visualization. From the visualizations come the generation of insights, the search for extra information and the interpretations of the phenomena found. Other tools and processes can be used to contribute to this objective.
+The proposition is to build the solution from a Jupyter Notebook, using Python and Numpy, Pandas, Matplotlib and Seaborn libraries. This set of tools enables data loading, pre-processing (cleaning, transformation, preparation), as well as modeling and visualization. From those come insights, the search for extra information and interpretations of phenomena found. Other tools and processes can be used to contribute to this objective.
 
-This choice of programming language and tools also counts as a project premise, since they are considered part of the course's learning, it would not be ideal to go down a different path.
+This choice of programming language and tools also counts as a project premise; since they are considered part of the course's learning, it would not be ideal to go down a different path.
 
 ## And the solution itself, how was it executed?
 
