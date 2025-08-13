@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Profile
+=====
+Bachelor’s degree in computer science. Experience with Python, SQL, Trello, VS Code. Knowledge of Linux, HTML, CSS, JavaScript, Docker. Student of Data Analysis and Machine Learning. Curious, analytical, explorative, questioner, communicative.
+
+
 Education
 ======
 * B.S. in Computer Science, UFRPE - Pernambuco Federal Rural University, 2018
@@ -17,22 +22,28 @@ Work experience
 ======
 * **2018-2019: IT Project Manager**
 * **IBRAEMA - Brazilian Institute for Education and Environment**
-	- Updated the institutional website using Wordpress, HTML, CSS and Javascript
-	- Provided IT support and solutions to internal teams
-	- Created dashboards for data visualization
-	- Created posters, brochures and texts to publicize projects and external activities
-	- Photographed and filmed training sessions for Facilitators and current classes of students
-	- Created, edited and disseminated institutional videos
-	- Managed the Institute's social networks
-	- Planned strategies and provided resources to Supervisors, Promoters and Facilitators
+	- Created a new institutional website.
+	- Media management. Capturing, editing, and posting institutional, training and class photos and videos; creating and sending posters, folders, and institutional texts.
+	- Managed the social networks: Facebook, Instagram, YouTube.
+	- Provided internal IT support.
+* **Results**
+Ease of use and maintenance: the website now has a CMS and the code has been hosted in a GitHub repository | An Instagram profile has been created, and the resulting network attracted more partners and funding to the Institute | The created media have started the first marketing campaigns | Correction of errors in internal systems
+* **Tools**
+Trello | GitHub | WordPress | Elementor | HTML | CSS | JavaScript | Inkscape | MS Office
+
 
 * **2013-2015: IT Trainee**
 * **TCE/PE - Court of Auditors of the State of Pernambuco**
-	- Consulted and maintained the Setti system's SQLServer database
-	- Updated website information and components via the Joomla interface
-	- Assisted with the creation of mobile applications using Java
-	- Provided IT support to the Corporate Educational Actions and Educational Action Planning, Development and Innovation
+	- Performed SQL queries and database maintenance for the Setti system.
+	- Updated information and components of the institutional website.
+	- Assisted with the creation of mobile applications.
+	- Provided internal IT support.
+* **Results**
+Correction of errors in the UI: the SQL queries pointed to the correct and desired tables, as opposed to some fields and buttons on the system as-is | Exclusion or merging of unused, misused or redundant tables | Correction of errors in internal systems | Maintenance and updating of the website via Joomla CMS
+* **Tools**
+SQL Server | Java | Git | Joomla | MS Office
 
+{% comment %}
 * **2011-2013: Administrative Assistant (Apprentice)**
 * **ECT - Brazilian Post-Office Company**
 	- Provided customer service at the workplace
@@ -41,16 +52,17 @@ Work experience
 	- Organized rooms and supported events
 	- Checked, updated and sorted equipment, materials and files
 	- Filled spreadsheets, registered files and tracked objects in the internal system
-  
+{% endcomment %}
 Skills
 ======
-* **Programming languages**
-	- Python, SQL, HTML/CSS
 
 * **Relevant libraries and tools**
-	- Python: Seaborn, Scikit-learn, Numpy, Pandas, Matplotlib, Jupyter
-	- SQL: MySQL, SQL Server, MariaDB
+	- Python
+		- Seaborn, Scikit-learn, Numpy, Pandas, Matplotlib, Jupyter
+	- SQL
+		- MySQL, SQL Server, MariaDB
 	- Excel, Power BI
+	- Google Docs, Looker Studio
 	
 * **Other softwares**
 	- Wordpress, MATLAB

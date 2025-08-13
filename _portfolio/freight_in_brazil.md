@@ -15,11 +15,11 @@ The source of the data is an Excel spreadsheet, with information about product f
 
 ## What is the problem here?
 
- There is no specific problem pointed out by the person responsible for the database or the course instructor; the idea is to explore the database and extract information, generate insights, build visualizations and enable others to learn more about the data in order to make a decision.
+There is no specific problem pointed out by the person responsible for the database or the course instructor; the idea is to explore the database and extract information, generate insights, build visualizations and enable others to learn more about the data in order to make a decision.
 
 ## How was the solution planned?
 
-The proposal was to use Excel's own functionalities. I realize from observation that many people would use Power Query and pivot tables; I would probably do the same. However, encouraged by the project's creator, only standard Excel functions such as sum, average and count would be used. Finally, Excel itself would also be used to generate a PDF report.
+The proposition was to use Excel's own functionalities. I realize from observation that many people would use Power Query and pivot tables; I would probably do the same. However, encouraged by the project's creator, only standard Excel functions such as sum, average and count would be used. Finally, Excel itself would also be used to generate a PDF report.
 
 ## And the solution itself, how was it executed?
 
