@@ -1,5 +1,5 @@
 ---
-title: "iFood"
+title: "1. iFood"
 excerpt: "Descriptive analysis of iFood's Marketing Campaings data <br/><img src='/images/ifood-campaigns.png'>"
 collection: portfolio
 ---

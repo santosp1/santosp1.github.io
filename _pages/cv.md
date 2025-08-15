@@ -26,9 +26,9 @@ Work experience
 	- Media management. Capturing, editing, and posting institutional, training and class photos and videos; creating and sending posters, folders, and institutional texts.
 	- Managed the social networks: Facebook, Instagram, YouTube.
 	- Provided internal IT support.
-* **Results**
+* **Results**  
 Ease of use and maintenance: the website now has a CMS and the code has been hosted in a GitHub repository | An Instagram profile has been created, and the resulting network attracted more partners and funding to the Institute | The created media have started the first marketing campaigns | Correction of errors in internal systems
-* **Tools**
+* **Tools**  
 Trello | GitHub | WordPress | Elementor | HTML | CSS | JavaScript | Inkscape | MS Office
 
 
@@ -38,9 +38,9 @@ Trello | GitHub | WordPress | Elementor | HTML | CSS | JavaScript | Inkscape | M
 	- Updated information and components of the institutional website.
 	- Assisted with the creation of mobile applications.
 	- Provided internal IT support.
-* **Results**
+* **Results**  
 Correction of errors in the UI: the SQL queries pointed to the correct and desired tables, as opposed to some fields and buttons on the system as-is | Exclusion or merging of unused, misused or redundant tables | Correction of errors in internal systems | Maintenance and updating of the website via Joomla CMS
-* **Tools**
+* **Tools**  
 SQL Server | Java | Git | Joomla | MS Office
 
 {% comment %}

@@ -1,5 +1,5 @@
 ---
-title: "Freight in Brazil"
+title: "3. Freight in Brazil"
 excerpt: "A quick analysis based on a set of product freight data <br/><img src='/images/excel_analysis_freight.png'>"
 collection: portfolio
 ---

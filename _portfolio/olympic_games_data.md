@@ -1,5 +1,5 @@
 ---
-title: "Olympic Games analysis"
+title: "2. Olympic Games analysis"
 excerpt: "Descriptive analysis of Olympic Games athletes' historical data <br/><img src='/images/dashboard_olympic.png'>"
 collection: portfolio
 ---
